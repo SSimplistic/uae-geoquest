@@ -37062,7 +37062,7 @@ n===$&&A.a()
 s=$.mb()
 r=t.Nn
 q=t.E
-return A.a3k(o,A.ai0(new A.cd(B.Du,A.uc(A.c([new A.cB(s,new A.aaw(),p,p,r),A.an1(A.ct(A.qz(B.ca,A.c([new A.cB(s,new A.aax(),p,p,r),new A.cB(s,new A.aay(),p,p,r),new A.cB(s,new A.aaz(),p,p,r),new A.cB(s,new A.aaA(),p,p,r),new A.cB(s,new A.aaB(),p,p,r),new A.cB(s,new A.aaC(),p,p,r),new A.cB(s,new A.aaD(),p,p,r)],q),B.N,B.cI),370,350),1.3),new A.cB($.mb(),new A.aaE(),p,p,r)],q),B.au,B.am,B.b_),p),n))}}
+return A.a3k(o,A.ai0(new A.cd(B.Du,A.uc(A.c([new A.cB(s,new A.aaw(),p,p,r),A.an1(A.ct(A.qz(B.ca,A.c([new A.cB(s,new A.aax(),p,p,r),new A.cB(s,new A.aay(),p,p,r),new A.cB(s,new A.aaz(),p,p,r),new A.cB(s,new A.aaA(),p,p,r),new A.cB(s,new A.aaB(),p,p,r),new A.cB(s,new A.aaC(),p,p,r),new A.cB(s,new A.aaD(),p,p,r)],q),B.N,B.cI),370,350),1.1),new A.cB($.mb(),new A.aaE(),p,p,r)],q),B.au,B.am,B.b_),p),n))}}
 A.aaw.prototype={
 $3(a,b,c){var s=b==null,r=s?"Select an Emirate to get started.":b.a
 s=s?30:50
@@ -37116,7 +37116,7 @@ s.l()
 this.aM()},
 P(a8){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3=this,a4=null,a5="No information available.",a6=A.agM(a4,A.ao(a8).dx,a4,new A.tI(B.wl,a4,a4,B.jR,$.di(),new A.aaQ(),a4,a4,a4,a4),a4),a7=a3.d
 a7===$&&A.a()
-s=A.p9(a4,new A.ed(A.ao(a8).ax.y,a4,a4,A.ky(30),a4,a4,B.aC),700,a4,a4,1/0)
+s=A.p9(a4,new A.ed(A.ao(a8).ax.y,a4,a4,A.ky(30),a4,a4,B.aC),800,a4,a4,1/0)
 r=A.ky(30)
 q=$.atU.k(0,a3.a.c.a)
 q.toString
@@ -37244,7 +37244,7 @@ return A.nZ(a,new A.az(b,new A.aG(B.iB,B.i,s),s.h("az<ap.T>")),null,!0)},
 $S:103}
 A.acg.prototype={
 $3(a,b,c){var s,r=null,q=b===0,p=q?$.co():B.A,o=$.co(),n=A.Sg(o,2),m=A.ky(20),l=this.a,k=this.b,j=l.a.d[k].b[0]
-p=A.mQ(r,A.p9(A.mo(A.cl(j,!0,A.cf().$2$color$fontSize(q?$.di():o,16),B.b3),r,r),new A.ed(p,r,n,m,r,r,B.aC),150,r,r,175),B.aq,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.ace(),r,r,r,r,r,r)
+p=A.mQ(r,A.p9(A.mo(A.cl(j,!0,A.cf().$2$color$fontSize(q?$.di():o,14),B.b3),r,r),new A.ed(p,r,n,m,r,r,B.aC),120,r,r,140),B.aq,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.ace(),r,r,r,r,r,r)
 o=A.ct(r,r,15)
 q=b===1
 n=q?$.co():B.A
@@ -37252,7 +37252,7 @@ m=$.co()
 j=A.Sg(m,2)
 s=A.ky(20)
 k=l.a.d[k].b[1]
-return A.HW(A.c([p,o,A.mQ(r,A.p9(A.mo(A.cl(k,!0,A.cf().$2$color$fontSize(q?$.di():m,16),B.b3),r,r),new A.ed(n,r,j,s,r,r,B.aC),150,r,r,175),B.aq,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.acf(),r,r,r,r,r,r)],t.E),B.au,B.am,B.b_)},
+return A.HW(A.c([p,o,A.mQ(r,A.p9(A.mo(A.cl(k,!0,A.cf().$2$color$fontSize(q?$.di():m,14),B.b3),r,r),new A.ed(n,r,j,s,r,r,B.aC),120,r,r,140),B.aq,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.acf(),r,r,r,r,r,r)],t.E),B.au,B.am,B.b_)},
 $S:104}
 A.ace.prototype={
 $0(){if(J.d($.dX().a,0))$.dX().sn(null)
@@ -37264,7 +37264,7 @@ else $.dX().sn(1)},
 $S:0}
 A.ach.prototype={
 $3(a,b,c){var s,r=null,q=b===2,p=q?$.co():B.A,o=$.co(),n=A.Sg(o,2),m=A.ky(20),l=this.a,k=this.b,j=l.a.d[k].b[2]
-p=A.mQ(r,A.p9(A.mo(A.cl(j,!0,A.cf().$2$color$fontSize(q?$.di():o,16),B.b3),r,r),new A.ed(p,r,n,m,r,r,B.aC),150,r,r,175),B.aq,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.acc(),r,r,r,r,r,r)
+p=A.mQ(r,A.p9(A.mo(A.cl(j,!0,A.cf().$2$color$fontSize(q?$.di():o,14),B.b3),r,r),new A.ed(p,r,n,m,r,r,B.aC),120,r,r,140),B.aq,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.acc(),r,r,r,r,r,r)
 o=A.ct(r,r,15)
 q=b===3
 n=q?$.co():B.A
@@ -37272,7 +37272,7 @@ m=$.co()
 j=A.Sg(m,2)
 s=A.ky(20)
 k=l.a.d[k].b[3]
-return A.HW(A.c([p,o,A.mQ(r,A.p9(A.mo(A.cl(k,!0,A.cf().$2$color$fontSize(q?$.di():m,16),B.b3),r,r),new A.ed(n,r,j,s,r,r,B.aC),150,r,r,175),B.aq,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.acd(),r,r,r,r,r,r)],t.E),B.au,B.am,B.b_)},
+return A.HW(A.c([p,o,A.mQ(r,A.p9(A.mo(A.cl(k,!0,A.cf().$2$color$fontSize(q?$.di():m,14),B.b3),r,r),new A.ed(n,r,j,s,r,r,B.aC),120,r,r,140),B.aq,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.acd(),r,r,r,r,r,r)],t.E),B.au,B.am,B.b_)},
 $S:104}
 A.acc.prototype={
 $0(){if(J.d($.dX().a,2))$.dX().sn(null)
